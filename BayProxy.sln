@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BayProxy", "BayProxy\BayProxy.csproj", "{33F17257-537B-406C-9CC2-8F3390B3D663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BayProxy-CS", "BayProxy-CS\BayProxy-CS.csproj", "{588E9125-49F5-4BD8-A9AF-958F7A76377B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F17257-537B-406C-9CC2-8F3390B3D663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F17257-537B-406C-9CC2-8F3390B3D663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F17257-537B-406C-9CC2-8F3390B3D663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F17257-537B-406C-9CC2-8F3390B3D663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588E9125-49F5-4BD8-A9AF-958F7A76377B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588E9125-49F5-4BD8-A9AF-958F7A76377B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588E9125-49F5-4BD8-A9AF-958F7A76377B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588E9125-49F5-4BD8-A9AF-958F7A76377B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
